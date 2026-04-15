@@ -1,0 +1,9 @@
+
+# Pothole Detection - YOLOv11s Final
+
+path: /kaggle/input/datasets/jassukhokher/potholedataset
+train: train/train/images
+val: valid/valid/images
+
+nc: 1
+names: ['pothole']
